@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+    line-height: 1.15;
+    text-size-adjust: 100%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    background-color: rgb(255, 255, 255);
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    color: rgb(45, 66, 113);
+    line-height: 24px;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+}
